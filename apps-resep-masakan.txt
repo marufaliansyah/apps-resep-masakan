@@ -4,3 +4,4 @@ masuk tampilan awal
 pilih resep masakan
 pilih resep minuman
 tambahkan  menu di dunia
+tambahkan menu makanan
