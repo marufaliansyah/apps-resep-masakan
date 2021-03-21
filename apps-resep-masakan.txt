@@ -2,3 +2,4 @@ apps resep masakan
 tahap awal login
 masuk tampilan awal
 pilih resep masakan
+pilih resep minuman
